@@ -1,2 +1,2 @@
 # Resume
-Publishing resume to web.
+Publishing resume on github.
